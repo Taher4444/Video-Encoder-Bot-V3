@@ -63,7 +63,7 @@ if __name__ == "__main__" :
     
     
     #
-    app.set_parse_mode("ParseMode.HTML")
+    app.set_parse_mode('html')
     #
     # STATUS ADMIN Command
 
